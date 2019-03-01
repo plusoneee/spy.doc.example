@@ -1,10 +1,5 @@
 # spy.doc.example
 
-### Clone
-```
-git clone https://github.com/plusoneee/spy.doc.example.git
-```
-
 ### Configure Setting : 
 Edit the file `./lib/.env.example`, save as `.lib/.env`.
 ```
