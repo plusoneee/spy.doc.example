@@ -9,6 +9,7 @@ print('| * Owner :', items['owner']['display_name'])
 print('| * Profile Url:',  items['owner']['external_urls']['spotify'])
 print('| * Song Number:', items['tracks']['total'])
 print('| * Track:', items['tracks']['href'])
+############################################################
 results = sp.user_playlist("plusoneee", items['id'])
 track = results['tracks']['items']
 print('| | * Playlists Detail:')
