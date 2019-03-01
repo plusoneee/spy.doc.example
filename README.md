@@ -1,6 +1,5 @@
 # spy.doc.example
 
-### Configure Setting : 
 Edit the file `./lib/.env.example`, save as `.lib/.env`.
 ```
 cp ./lib/.env.example .lib/.env
