@@ -1,6 +1,6 @@
 ## spy.doc.example
 
-> This project is for the [article](https://plusoneee.github.io/Spotipy-tutorial/).
+> This project is for [the article](https://plusoneee.github.io/Spotipy-tutorial/).
 
 Before using an example file, you should :
 * Edit the file `./lib/.env.example`, save as `.lib/.env`.
